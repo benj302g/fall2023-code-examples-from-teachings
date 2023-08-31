@@ -1,0 +1,24 @@
+
+6. Note:
+
+    Always choose the .venv environment when running code in this repository in the future.
+
+Working with Code and Exercises for the Semester:
+
+    Always pull the master branch for new files added to the repository.
+
+    Create a new branch for:
+
+        Playing with files.
+
+        Completing exercises.
+
+    Never merge your branches into the master branch.
+
+Important Note:
+
+    Do not edit files directly in the master branch.
+
+    Keep the master branch clean to avoid merge errors.
+
+
